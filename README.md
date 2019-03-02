@@ -12,6 +12,8 @@ Inspired by [Awesome Creative Coding](https://github.com/terkelg/awesome-creativ
 
 [Multimedia Programming Using Max/MSP and TouchDesigner](https://www.packtpub.com/hardware-and-creative/multimedia-programming-using-maxmsp-and-touchdesigner) - A step-by-step guide to designing, building, and refining immersive audio-visual applications and performance environments using Max and TouchDesigner.
 
+[Visual Thinking with TouchDesigner - プロが選ぶリアルタイムレンダリング&プロトタイピングの極意](https://www.amazon.co.jp/Visual-Thinking-TouchDesigner-%E3%83%97%E3%83%AD%E3%81%8C%E9%81%B8%E3%81%B6%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0-%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%AE%E6%A5%B5%E6%84%8F/dp/4802510713) - Comprehensive Japanese TouchDesigner book
+
 ## Videos
 ### Free
 
