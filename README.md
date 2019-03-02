@@ -8,6 +8,9 @@ Inspired by [Awesome Creative Coding](https://github.com/terkelg/awesome-creativ
 
 ## Videos
 
+- [TouchDesigner Summit Berlin 2018](https://www.youtube.com/playlist?list=PLSqkC3f_BStzZ9CyGW9ahN8Sb_zoCWak1)
+- [TouchDesigner Workshop Norway 2016](https://www.youtube.com/playlist?list=PLSqkC3f_BStweh-7ZF8L3oyeJWLP2aYTw)
+- [Minimalistic Animation in TouchDesigner](https://www.youtube.com/playlist?list=PLrd6p_jNA0y3_SxpgqlL0asBlVOaHlc7D)
 ## Companies
 
 - [Obscura Digital](http://obscuradigital.com/) - 
