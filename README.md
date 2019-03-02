@@ -13,4 +13,8 @@ Inspired by [Awesome Creative Coding](https://github.com/terkelg/awesome-creativ
 - [Obscura Digital](http://obscuradigital.com/) - 
 - [Moment Factory](https://momentfactory.com/) - 
 
+## License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Daniel Samson](http://danielsamson.com) has waived all copyright and related or neighboring rights to this work.
