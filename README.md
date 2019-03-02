@@ -2,7 +2,7 @@
 
 A collection of TouchDesigner videos, books, companies and projects. The idea is to create a list of useful TouchDesigner rescources for beginners and experts alike.
 
-Inspired by https://github.com/terkelg/awesome-creative-coding/
+Inspired by [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding/)
 
 ## Books
 
@@ -10,7 +10,7 @@ Inspired by https://github.com/terkelg/awesome-creative-coding/
 
 ## Companies
 
-http://obscuradigital.com/
-https://momentfactory.com/
+- [Obscura Digital](http://obscuradigital.com/) - 
+- [Moment Factory](https://momentfactory.com/) - 
 
 
