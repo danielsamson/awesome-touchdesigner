@@ -20,11 +20,10 @@ Inspired by [Awesome Creative Coding](https://github.com/terkelg/awesome-creativ
 - [Minimalistic Animation in TouchDesigner](https://www.youtube.com/playlist?list=PLrd6p_jNA0y3_SxpgqlL0asBlVOaHlc7D)
 - [CutMod TouchDesigner Tutorials](https://www.youtube.com/playlist?list=PL4XNsp-R8i-LU7EdJr7kWKPlmi0vGGgDZ)
 - [Matthew Ragan's TouchDesigner Tutorials](http://matthewragan.com/teaching-resources/touchdesigner/) - Great resource for learning TouchDesigner with over 100 topics.
-- [Learning TouchDesigner by Scott Pagano on Lynda.com](https://www.lynda.com/course-tutorials/Learn-TouchDesigner/513599-2.html) - A four hour introduction to the fundamentals of TouchDesigner
-
 
 ### Paid
 
+- [Learning TouchDesigner by Scott Pagano on Lynda.com](https://www.lynda.com/course-tutorials/Learn-TouchDesigner/513599-2.html) - A four hour introduction to the fundamentals of TouchDesigner
 
 ## Companies
 
